@@ -1,0 +1,8 @@
+GET http://localhost:3000/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-11-19T105720.200.json
+
+###
+
